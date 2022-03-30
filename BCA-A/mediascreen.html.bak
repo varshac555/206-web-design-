@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+@media screen{
+	body{
+    		color:red;
+			
+}
+@media only screen and (max-width:700px)
+{
+body{
+background-color:lightblue;
+}
+}
+
+</style>
+</head>
+<body>
+<p>Print Media Query</p>
+</body>
+
+
+</html>
